@@ -1,5 +1,6 @@
 import pytest
-from simple_addition_task import add
+from simple_addition_function import add
+
 
 def test_add():
     
